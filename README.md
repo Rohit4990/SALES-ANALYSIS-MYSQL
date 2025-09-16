@@ -17,3 +17,6 @@ A simple **Sales Analysis Project using SQL** to explore business insights like 
 1. Import schema & data  
 2. Run queries from `sales_queries.sql`  
 3. Check insights  
+
+## 📊 Dataset
+Dataset file is inside the folder: SALES_TABLE.CSV
